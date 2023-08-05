@@ -1,4 +1,4 @@
-README for ECE-684 Final Project
+README for NLP Final Project
 Group Members: Richard Fremgen, Johnny Antoun, Jaskaran Singh
 
 The contents of this zip file and attachments including the following files:
