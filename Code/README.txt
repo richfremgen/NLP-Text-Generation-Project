@@ -21,10 +21,6 @@ The following References were used:
 
 References
 
-- ECE-684 Notes and TA Office Hours 
-- ECE-684 HW 3 (Fremgen)
-- ECE-684 HW 3 (Antoun)
-- ECE-684 HW 3 (Singh)
 - Build a Natural Language Generation (NLG) System using PyTorch - Code for LSTM Model (Section 3, 4, 5) https://www.analyticsvidhya.com/blog/2020/08/build-a-natural-language-generation-nlg-system-using-pytorch/ 
 - Text Generation using PyTorch LSTM Networks* https://coderzcolumn.com/tutorials/artificial-intelligence/text-generation-using-pytorch-lstm-networks-and-character-embeddings 
 - CMU Movie Summary Corpus* - http://www.cs.cmu.edu/~ark/personas/ 
